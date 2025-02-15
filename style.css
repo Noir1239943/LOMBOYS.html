@@ -1,0 +1,48 @@
+header {
+    background-color: teal;
+    text-align: center;
+}
+
+body {
+    background-image: url("BOOMS.jpg");
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+}  
+  
+p {
+    color: rgb(197, 10, 10);
+    font-size: 1.2em;
+}
+
+h2 {
+    color: rgb(230, 226, 4);
+    text-decoration: none;
+}
+dt {
+    color: rgb(20, 102, 20);
+    font-weight: bold;
+}
+
+dd {
+    color: rgb(238, 17, 17);
+    font-size: 1.1em;
+}  
+
+main {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+section {
+    background: fixed;
+    margin: auto;
+}
+footer {   
+    background-color: teal;
+    text-align: center;
+    padding: 20px;
+}
+   
